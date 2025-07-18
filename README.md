@@ -4,7 +4,7 @@
 Scripts focused on audit, structure alignment, metadata cleanup, and upload automation for hybrid or cloud-first environments.
 
 Can be used as pre-ingestion audit for Copilot/LLM readiness validation
-
+Here’s what I use when helping orgs move 100k files from on-prem to M365, while cleaning and aligning naming, structure, and metadata.
 Used in multi-tenant migration across 450 GB of content in different business units
 ---
 
