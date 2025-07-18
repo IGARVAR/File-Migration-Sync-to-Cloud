@@ -3,6 +3,7 @@
 **Data migration and sync automation from on-prem to cloud (SharePoint, OneDrive, Teams).**  
 Scripts focused on audit, structure alignment, metadata cleanup, and upload automation for hybrid or cloud-first environments.
 
+Can be used as pre-ingestion audit for Copilot/LLM readiness validation
 ---
 
 ## Overview
